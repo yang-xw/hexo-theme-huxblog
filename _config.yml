@@ -147,5 +147,5 @@ theme: huxblog
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/Kaijun/hexo-theme-huxblog
+  repo: git@github.com:yang-xw/yang-xw.github.io.git
   branch: gh-pages
